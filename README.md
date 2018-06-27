@@ -14,20 +14,20 @@ If you're here, you've already a browser, that's it!
 
 Today, nothing foolish, just fork or download.
 
-**Running the tests
-**
+**Running the tests**
+
 Blank tests ar useless, but you'll need test asap.
 
-**Only JS here...
-**
+**Only JS here...**
+
 but maybe something else too.
 
-**Built With
-**
+**Built With**
+
 VSCode - The microsoft free editor
 
-**Authors
-**
+**Authors**
+
 *Vincent*! 
 See also the list of contributors who participated in this project, if some want to.
 
