@@ -1,7 +1,7 @@
 # WSC
 
-**My GitHub for practice at the WCS
-**
+**My GitHub for practice at the WCS**
+
 Getting Started
 
 Nothing special for hardware will be required, just need a computer.
