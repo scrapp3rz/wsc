@@ -26,7 +26,7 @@ VSCode - The microsoft free editor
 
 ## **Authors**
 
-### *Vincent*! 
+### *Vincent!*
 See also the list of contributors who participated in this project, if some want to.
 
 ## **License**
